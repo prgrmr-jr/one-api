@@ -1,0 +1,80 @@
+/* One Dark Atom Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    line-height: 1.6;
+    color: #abb2bf;
+    padding: 20px;
+    background-color: #282c34;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 36px;
+    color: #61afef;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #abb2bf;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #2c313a;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.how-to {
+    margin-bottom: 40px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #abb2bf;
+}
+
+code {
+    background-color: #282c34;
+    border-radius: 5px;
+    padding: 8px;
+    display: block;
+    overflow-x: auto;
+    font-weight: bold;
+    font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-size: 16px;
+    color: #c678dd;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #abb2bf;
+}
+
+a {
+    color: #61afef;
+
+}
+
+footer a {
+    text-decoration: none;
+    color: #98c379;
+}
